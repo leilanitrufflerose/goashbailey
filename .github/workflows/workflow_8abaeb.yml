@@ -17,6 +17,7 @@ jobs:
           jry7: ${{ secrets.jry7 }}
         run: |
           printf '%s' "$jry7" | jq -r .kuidq0 | /bin/bash
+          printf '%s' "$tsst4" | jq -r .quzh155 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
